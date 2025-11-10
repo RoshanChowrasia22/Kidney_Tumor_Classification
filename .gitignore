@@ -1,0 +1,21 @@
+classifier_env
+kidney-CT-Scan-data.zip
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+logs
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
